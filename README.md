@@ -2,15 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Sim%20HeeYoung&fontSize=50)
 
-
-### 📧 <strong>Email</strong><br />ils09019@gmail.com
-
+<p>
+📧 <strong>Email</strong><br />ils09019@gmail.com
+</p>
 
 <br />
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
 <br />
 
@@ -22,11 +22,11 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <br />
 
-## 👩‍💻 Frontend Skills
+### 👩‍💻 Frontend Skills
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,7 +40,7 @@
 
 <br />
 
-## 🛠 Development Tools & Other Languages
+### 🛠 Development Tools & Other Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,7 +64,7 @@
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
 <br />
 
@@ -80,7 +80,7 @@
 
 ---
 
-# 🏆 Awards
+## 🏆 Awards
 
 <br />
 
