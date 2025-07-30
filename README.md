@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Sim%20HeeYoung&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Sim%20HeeYoung&fontSize=50)
 
 <p align="left">
   📧 <strong>Email:</strong><br />ils09019@gmail.com
