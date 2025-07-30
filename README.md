@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Sim%20HeeYoung&fontSize=50)
 
-<p align="left">
+<p align="center">
   📧 <strong>Email:</strong><br />ils09019@gmail.com
 </p>
 
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 <br />
@@ -42,7 +43,6 @@
 ### 🛠 Development Tools & Other Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
