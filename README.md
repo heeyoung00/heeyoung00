@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sim%20HeeYoung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sim%20HeeYoung&fontSize=60)
 
 <p align="left">
   📧 <strong>Email:</strong> ils09019@gmail.com
@@ -62,10 +62,4 @@
 | 2024.05.16 | 교내 SW경진대회 | **WAD** | 우수상 (3위) |
 | 2024.11.23 | 간지톤 : PYTHON | **도치둥지** | 우수상 (3위) |
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heeyoung00&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeyoung00&layout=compact&theme=tokyonight" />
-</p>
