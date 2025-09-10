@@ -73,7 +73,7 @@
 |------------|------|------|------|
 | **W.A.D** | ChatGPT 기반 개발자 커뮤니티 웹서비스 (2024-1 SW 경진대회) | 프론트엔드 | [🔗 바로가기](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/) |
 | **COSLOW** | 저속노화 식단 챌린지 플랫폼 (2024 해커톤) | 프론트엔드 | [🔗 바로가기](https://coslow-n1wllud5k-no4hs-projects.vercel.app/) |
-| **RISEUP** | 삼육대학교 축제 홍보 웹페이지 (2024-2) | 프론트엔드 | [🔗 바로가기](https://syu-2024-festival-filxd66e8-no4hs-projects.vercel.app/) |
+| **RISEUP** | 삼육대학교 축제 홍보 웹페이지 (2024-2) | 프론트엔드 | [🔗 바로가기](https://riseup-93x224p5x-simheeyoungs-projects.vercel.app) |
 | **도치둥지** | 가족 챌린지 기반 활동 기록 서비스 (2024 간지톤) | 프론트엔드 | [🔗 바로가기](https://ganzithon-7team-dochi-cjeryy5jq-simheeyoungs-projects.vercel.app) |
 | **멋사 13기 모집 페이지** | 삼육대학교 멋사 13기 모집 웹페이지 | 프론트엔드 | [🔗 바로가기](https://syu-likelion.org/) |
 | **똑똑하zoo?** | 웹 기반 싱글&멀티 종합 두뇌 게임 | 프론트엔드 | [🔗 바로가기](https://www.smartzoo.net) |
