@@ -2,10 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Sim%20HeeYoung&fontSize=50)
 
-<p>
-📧 <strong>Email</strong><br />ils09019@gmail.com
-</p>
-
 <br />
 
 ---
@@ -150,5 +146,14 @@
 | 2025.08 | 2025 교내 SW경진대회 | **잡담** | 우수상 (3위) |
 
 <br />
+
+## ✔️ Connect
+
+📧 **Email**  
+ils09019@gmail.com  
+
+[📄 **Notion**](https://basalt-button-a8b.notion.site/STUDY-ff027a3c0ecf40689e3776235cd2a968)
+
+[📚 **Velog**](https://velog.io/@shy0228/posts)
 
 </div>
