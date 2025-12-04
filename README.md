@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Sim%20HeeYoung&fontSize=50)
 
@@ -67,18 +67,76 @@
 
 ## 🚀 Projects
 
-<br />
+### **1) W.A.D — ChatGPT 기반 초보 개발자 커뮤니티 (2024-1 교내 SW프로젝트 경진대회)**
 
-| 프로젝트명 | 설명 | 역할 | 링크 |
-|------------|------|------|------|
-| **W.A.D** | ChatGPT 기반 개발자 커뮤니티 웹서비스 (2024-1 SW 경진대회) | 프론트엔드 | [🔗 바로가기](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/) |
-| **COSLOW** | 저속노화 식단 챌린지 플랫폼 (2024 해커톤) | 프론트엔드 | [🔗 바로가기](https://coslow-n1wllud5k-no4hs-projects.vercel.app/) |
-| **RISEUP** | 삼육대학교 축제 홍보 웹페이지 (2024-2) | 프론트엔드 | [🔗 바로가기](https://riseup-93x224p5x-simheeyoungs-projects.vercel.app) |
-| **도치둥지** | 가족 챌린지 기반 활동 기록 서비스 (2024 간지톤) | 프론트엔드 | [🔗 바로가기](https://ganzithon-7team-dochi-cjeryy5jq-simheeyoungs-projects.vercel.app) |
-| **멋사 13기 모집 페이지** | 삼육대학교 멋사 13기 모집 웹페이지 | 프론트엔드 | [🔗 바로가기](https://syu-likelion.org/) |
-| **똑똑하zoo?** | 웹 기반 싱글&멀티 종합 두뇌 게임 | 프론트엔드 | [🔗 바로가기](https://www.smartzoo.net) |
+- **역할:** 프론트엔드  
+- **성과:** 우수상 수상  
+[👉 서비스](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)  
+[🎬 영상](https://youtu.be/SQxkXWdHU7U?si=r8Qf7S2LNgSBZoMv)  
+[🛠 GitHub](https://github.com/heeyoung00/WAD)
+
+
+### **2) 촌스레 — 전남 시골감성 여행일정 추천 서비스 (2025 관광데이터 활용 공모전)**
+
+- **역할:** 프론트엔드  
+- **성과:** 1차 제안서 통과  
+[👉 서비스](https://www.chonsre.org/)  
+[🎬 영상](https://youtu.be/IvVS88Z2K8E)  
+[🛠 GitHub](https://github.com/heeyoung00/Chonsre)
+
+### **3) PEAK;TIME — 2025 삼육대학교 천보축전 페이지**
+
+- **역할:** 프론트엔드  
+- **성과:** 서비스 누적 가입자수 241명 & 최대 4,953회 트래픽 안정적 수용  
+[👉 서비스](https://riseup-93x224p5x-simheeyoungs-projects.vercel.app)  
+[🛠 GitHub](https://github.com/heeyoung00/Peaktime)
+
+
+### **4) 멋쟁이사자처럼 삼육대학교 13기 모집 페이지**
+
+- **역할:** 프론트엔드  
+- **성과:** 총 지원자 약 60명 확보  
+[👉 서비스](https://syu-likelion.org/)  
+[🛠 GitHub](https://github.com/heeyoung00/LikeLion13Recruit_Front)
+
+
+### **5) 잡담 — 사회초년생을 위한 사회생활 도우미**
+
+- **역할:** 프론트엔드  
+- **성과:** 우수상 수상  
+[👉 서비스](https://www.jobdam.pro/)  
+[🎬 영상](https://youtu.be/yLux_KkMY7A?si=lIDfeJXKsaJ6YlEo)  
+[🛠 GitHub](https://github.com/heeyoung00/Jobdam-Frontend)
+
+
+### **6) 도치둥지 — 가족 활동 기록 서비스 (2024 Ganzithon : PYTHON)**
+
+- **역할:** 프론트엔드  
+- **성과:** 우수상 수상  
+[👉 서비스](https://ganzithon-7team-dochi-cjeryy5jq-simheeyoungs-projects.vercel.app)  
+[🎬 영상](https://youtu.be/j8jAT1vMnSU?si=4nV2gGh3-0DT8Zbh)  
+[🛠 GitHub](https://github.com/heeyoung00/DochiNest)
+
+
+### **7) 똑똑하zoo — 웹 기반 두뇌 멀티 게임**
+
+- **역할:** 프론트엔드    
+[👉 서비스](https://www.smartzoo.net)  
+[🎬 영상](https://youtu.be/x0oP-8nMLeM)  
+[🛠 GitHub](https://github.com/heeyoung00/AnimalBrainGame_Front)
+
+
+#### 📌 Other Projects
+
+- COSLOW — 저속노화 식단 관리 챌린지  
+  [서비스](https://coslow-n1wllud5k-no4hs-projects.vercel.app/) · [GitHub](https://github.com/heeyoung00/COSLOW_Front?tab=readme-ov-file)
+- RISE UP — 2024 삼육대학교 천보축전 페이지  
+  [서비스](https://riseup-93x224p5x-simheeyoungs-projects.vercel.app/) · [GitHub](https://github.com/heeyoung00/RISEUP?tab=readme-ov-file)
+- Film Note — 영화 기록·평가 & 영화 모임 생성 서비스  
+  [서비스](https://uni-verse-front-main-3542mpy1v-simheeyoungs-projects.vercel.app/) · [GitHub](https://github.com/heeyoung00/FilmNote_Front?tab=readme-ov-file)
 
 ---
+
 
 ## 🏆 Awards
 
