@@ -63,13 +63,14 @@
 
 ## 🚀 Projects
 
-### **1) W.A.D — ChatGPT 기반 초보 개발자 커뮤니티 (2024-1 교내 SW프로젝트 경진대회)**
+
+### **1) PEAK;TIME — 2025 삼육대학교 천보축전 페이지**
 
 - **역할:** 프론트엔드  
-- **성과:** 우수상 수상  
-[👉 서비스](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)  
-[🎬 영상](https://youtu.be/SQxkXWdHU7U?si=r8Qf7S2LNgSBZoMv)  
-[🛠 GitHub](https://github.com/heeyoung00/WAD)
+- **성과:** 서비스 누적 가입자수 241명 & 최대 4,953회 트래픽 안정적 수용   
+[👉 서비스](https://www.syu-festival.site/) <br/>
+[👉 축제 관리자 페이지](https://syu-likelion.org/festa/manage )  
+[🛠 GitHub](https://github.com/heeyoung00/Peaktime)
 
 
 ### **2) 촌스레 — 전남 시골감성 여행일정 추천 서비스 (2025 관광데이터 활용 공모전)**
@@ -80,13 +81,14 @@
 [🎬 영상](https://youtu.be/IvVS88Z2K8E)  
 [🛠 GitHub](https://github.com/heeyoung00/Chonsre)
 
-### **3) PEAK;TIME — 2025 삼육대학교 천보축전 페이지**
+
+### **3) W.A.D — ChatGPT 기반 초보 개발자 커뮤니티 (2024-1 교내 SW프로젝트 경진대회)**
 
 - **역할:** 프론트엔드  
-- **성과:** 서비스 누적 가입자수 241명 & 최대 4,953회 트래픽 안정적 수용   
-[👉 서비스](https://www.syu-festival.site/) <br/>
-[👉 축제 관리자 페이지](https://syu-likelion.org/festa/manage )  
-[🛠 GitHub](https://github.com/heeyoung00/Peaktime)
+- **성과:** 우수상 수상  
+[👉 서비스](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)  
+[🎬 영상](https://youtu.be/SQxkXWdHU7U?si=r8Qf7S2LNgSBZoMv)  
+[🛠 GitHub](https://github.com/heeyoung00/WAD)
 
 
 ### **4) 멋쟁이사자처럼 삼육대학교 13기 모집 페이지**
