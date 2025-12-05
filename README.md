@@ -84,8 +84,7 @@
 
 - **역할:** 프론트엔드  
 - **성과:** 서비스 누적 가입자수 241명 & 최대 4,953회 트래픽 안정적 수용   
-[👉 서비스](https://www.syu-festival.site/)
-
+[👉 서비스](https://www.syu-festival.site/) <br/>
 [👉 축제 관리자 페이지](https://syu-likelion.org/festa/manage )  
 [🛠 GitHub](https://github.com/heeyoung00/Peaktime)
 
