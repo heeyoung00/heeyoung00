@@ -36,7 +36,88 @@
 
 <br />
 
-### 🛠 Development Tools 인    
+### 🛠 Development Tools & Other Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cocos%20Creator-FB4C06?style=for-the-badge&logo=cocos&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<br />
+
+---
+
+## 🚀 Projects
+
+### **1) W.A.D — ChatGPT 기반 초보 개발자 커뮤니티 (2024-1 교내 SW프로젝트 경진대회)**
+
+- **역할:** 프론트엔드  
+- **성과:** 우수상 수상  
+[👉 서비스](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)  
+[🎬 영상](https://youtu.be/SQxkXWdHU7U?si=r8Qf7S2LNgSBZoMv)  
+[🛠 GitHub](https://github.com/heeyoung00/WAD)
+
+
+### **2) 촌스레 — 전남 시골감성 여행일정 추천 서비스 (2025 관광데이터 활용 공모전)**
+
+- **역할:** 프론트엔드  
+- **성과:** 1차 제안서 통과  
+[👉 서비스](https://www.chonsre.org/)  
+[🎬 영상](https://youtu.be/IvVS88Z2K8E)  
+[🛠 GitHub](https://github.com/heeyoung00/Chonsre)
+
+### **3) PEAK;TIME — 2025 삼육대학교 천보축전 페이지**
+
+- **역할:** 프론트엔드  
+- **성과:** 서비스 누적 가입자수 241명 & 최대 4,953회 트래픽 안정적 수용  
+[👉 서비스](https://riseup-93x224p5x-simheeyoungs-projects.vercel.app)  
+[👉 서비스](https://www.syu-festival.site/)  
+[🛠 GitHub](https://github.com/heeyoung00/Peaktime)
+
+
+### **4) 멋쟁이사자처럼 삼육대학교 13기 모집 페이지**
+
+- **역할:** 프론트엔드  
+- **성과:** 총 지원자 약 60명 확보  
+[👉 서비스](https://syu-likelion.org/)  
+[🛠 GitHub](https://github.com/heeyoung00/LikeLion13Recruit_Front)
+
+
+### **5) 잡담 — 사회초년생을 위한 사회생활 도우미**
+
+- **역할:** 프론트엔드  
+- **성과:** 우수상 수상  
+[👉 서비스](https://www.jobdam.pro/)  
+[🎬 영상](https://youtu.be/yLux_KkMY7A?si=lIDfeJXKsaJ6YlEo)  
+[🛠 GitHub](https://github.com/heeyoung00/Jobdam-Frontend)
+
+
+### **6) 도치둥지 — 가족 활동 기록 서비스 (2024 Ganzithon : PYTHON)**
+
+- **역할:** 팀장, 프론트엔드  
+- **성과:** 우수상 수상  
+[👉 서비스](https://ganzithon-7team-dochi-cjeryy5jq-simheeyoungs-projects.vercel.app)  
+[🎬 영상](https://youtu.be/j8jAT1vMnSU?si=4nV2gGh3-0DT8Zbh)  
+[🛠 GitHub](https://github.com/heeyoung00/DochiNest)
+
+
+### **7) 똑똑하zoo? — 웹 기반 두뇌 멀티 게임**
+
+- **역할:** 프론트엔드, 디자인    
 [👉 서비스](https://www.smartzoo.net)  
 [🎬 영상](https://youtu.be/x0oP-8nMLeM)  
 [🛠 GitHub](https://github.com/heeyoung00/AnimalBrainGame_Front)
