@@ -155,8 +155,6 @@
 📧 **Email**  
 ils09019@gmail.com  
 
-[📄 **Notion**](https://basalt-button-a8b.notion.site/STUDY-ff027a3c0ecf40689e3776235cd2a968)
-
 [📚 **Velog**](https://velog.io/@shy0228/posts)
 
 </div>
