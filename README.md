@@ -66,7 +66,7 @@
 
 ### **1) PEAK;TIME — 2025 삼육대학교 천보축전 페이지**
 
-- **역할:** 프론트엔드  
+- **역할:** 기획,프론트엔드  
 - **성과:** 서비스 누적 가입자수 241명 & 최대 4,953회 트래픽 안정적 수용   
 [👉 서비스](https://www.syu-festival.site/) <br/>
 [👉 축제 관리자 페이지](https://syu-likelion.org/festa/manage )  
@@ -75,7 +75,7 @@
 
 ### **2) 촌스레 — 전남 시골감성 여행일정 추천 서비스 (2025 관광데이터 활용 공모전)**
 
-- **역할:** 프론트엔드  
+- **역할:** 기획,프론트엔드  
 - **성과:** 1차 제안서 통과  
 [👉 서비스](https://www.chonsre.org/)  
 [🎬 영상](https://youtu.be/IvVS88Z2K8E)  
@@ -84,7 +84,7 @@
 
 ### **3) W.A.D — ChatGPT 기반 초보 개발자 커뮤니티 (2024-1 교내 SW프로젝트 경진대회)**
 
-- **역할:** 프론트엔드  
+- **역할:** 기획,프론트엔드  
 - **성과:** 우수상 수상  
 [👉 서비스](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)  
 [🎬 영상](https://youtu.be/SQxkXWdHU7U?si=r8Qf7S2LNgSBZoMv)  
@@ -93,7 +93,7 @@
 
 ### **4) 멋쟁이사자처럼 삼육대학교 13기 모집 페이지**
 
-- **역할:** 프론트엔드  
+- **역할:** 기획,프론트엔드  
 - **성과:** 총 지원자 약 60명 확보  
 [👉 서비스](https://syu-likelion.org/)  
 [🛠 GitHub](https://github.com/heeyoung00/LikeLion13Recruit_Front)
@@ -101,7 +101,7 @@
 
 ### **5) 잡담 — 사회초년생을 위한 사회생활 도우미 (2025 교내 SW프로젝트 경진대회)**
 
-- **역할:** 프론트엔드  
+- **역할:** 기획,프론트엔드  
 - **성과:** 우수상 수상  
 [👉 서비스](https://www.jobdam.pro/)  
 [🎬 영상](https://youtu.be/yLux_KkMY7A?si=lIDfeJXKsaJ6YlEo)  
@@ -110,7 +110,7 @@
 
 ### **6) 도치둥지 — 가족 활동 기록 서비스 (2024 Ganzithon : PYTHON)**
 
-- **역할:** 팀장, 프론트엔드  
+- **역할:** 팀장,기획,프론트엔드  
 - **성과:** 우수상 수상  
 [👉 서비스](https://ganzithon-7team-dochi-cjeryy5jq-simheeyoungs-projects.vercel.app)  
 [🎬 영상](https://youtu.be/j8jAT1vMnSU?si=4nV2gGh3-0DT8Zbh)  
@@ -119,7 +119,7 @@
 
 ### **7) 똑똑하zoo? — 웹 기반 두뇌 멀티 게임**
 
-- **역할:** 프론트엔드, 디자인    
+- **역할:** 기획,디자인,프론트엔드    
 [👉 서비스](https://www.smartzoo.net)  
 [🎬 영상](https://youtu.be/x0oP-8nMLeM)  
 [🛠 GitHub](https://github.com/heeyoung00/AnimalBrainGame_Front)
